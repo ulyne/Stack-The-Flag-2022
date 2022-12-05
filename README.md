@@ -1,5 +1,5 @@
 # Stack-The-Flag-2022
-Purely for Finding Nyan OSINT
+Write-ups for Stack-The-Flag 2022
 
 ## How to OSINT Finding Nyan
 
