@@ -8,6 +8,7 @@ Looking at the video, you can see 九 工程 relatively clearly on the walls of 
 ![image](https://user-images.githubusercontent.com/80171064/205593089-8cec5fa2-fe09-4d22-b4fd-05b5e2a7d3e8.png)
 
 Using Google, one can find that there is a construction company called 九鼎工程.
+
 http://new.wcbn.com.sg/index.cfm?GPID=%2D1&CSEARCH=1&PopWin=1&copID=000014229&ChkDB=cop1
 ![image](https://user-images.githubusercontent.com/80171064/205593534-d0f76101-fd8a-4d4d-a71f-e4f071615d21.png)
 
@@ -24,3 +25,7 @@ Using Google Maps, enter "TENGAH GARDEN DISTRICT" and one can find the road, Buk
 The bus stop in the video.
 ![image](https://user-images.githubusercontent.com/80171064/205593721-056f1a78-80ca-4ec3-b20e-f2cc779dc14a.png)
 
+Therefore, the flag is STF22{BUKIT_BATOK_RD}.
+
+
+There is most likely easier ways to solve this, someone in the Discord mentioned that he saw a vehicle from the Bukit Batok Driving Centre (BBDC), hence the attempt of Bukit Batok Rd. 
