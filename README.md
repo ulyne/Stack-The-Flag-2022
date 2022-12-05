@@ -1,7 +1,7 @@
 # Stack-The-Flag-2022
 Purely for Finding Nyan OSINT
 
-## How to OSINT Finding Nyan!
+## How to OSINT Finding Nyan
 
 Looking at the video, you can see 九 工程 relatively clearly on the walls of the construction site.
 
